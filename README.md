@@ -1,0 +1,2 @@
+# typescript-minin
+learning typescript
